@@ -3,8 +3,10 @@ This repository includes the Jupyter notebook used to conduct an exploratory dat
 The notebook showcases the following skills:
 - python
 - matplotlib
-- data compilation
+- data compilation & ingestion
 - data cleaning
+- data aggregation
+- data modelling
 - statistical analysis
 - documentation
 - research skills
